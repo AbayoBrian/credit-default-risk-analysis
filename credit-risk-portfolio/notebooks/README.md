@@ -1,0 +1,1 @@
+Create the notebook `01_credit_default_risk_analysis.ipynb` by running the same workflow in `src/analysis.py`, then add narrative EDA, charts and interpretation. Keep all reported metrics generated from the held-out test set.
